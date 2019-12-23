@@ -1,0 +1,4 @@
+﻿CREATE PROCEDURE AllProducts
+AS
+SELECT * FROM Products
+GO;

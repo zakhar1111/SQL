@@ -65,4 +65,7 @@
   <ItemGroup>
     <Build Include="dbo\Tables\Products.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="sp_AllProducts.sql" />
+  </ItemGroup>
 </Project>
