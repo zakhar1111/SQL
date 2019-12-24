@@ -68,5 +68,6 @@
   <ItemGroup>
     <None Include="sp_AllProducts.sql" />
     <None Include="ClientDBs.json" />
+    <None Include="ListNewDBs.json" />
   </ItemGroup>
 </Project>
